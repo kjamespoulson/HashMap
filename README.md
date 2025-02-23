@@ -1,4 +1,4 @@
-**HashMap**
+# HashMap
 
     This project is a demonstration of the Hash data structure in Python. HashMap uses different
     structures for collision resolution including Seperate Chaining and Open Addressing.
